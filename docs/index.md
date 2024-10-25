@@ -1,21 +1,10 @@
-# Welcome to My Research Page
+# Welcome to My Website!
 
 
-![Coma cluster](./media/Crab_Nebula.jpg "Crab Nebula"){align="left": style="height:150;width:150px"}
-Welcome to the digital platform of a dedicated physics graduate student committed to unraveling the intricacies of the cosmos. 
-Focused on the exploration of the profound Crab Nebula, a celestial phenomenon steeped in historical fascination, my research endeavors center on the application of advanced astrophysical methodologies and theoretical frameworks. 
-This platform serves as an invitation to accompany me on a scholarly journey into the depths of the universe. 
-Through meticulous investigation, I aim to elucidate the fundamental processes shaping the Crab Nebula, contributing substantively to the broader comprehension of the universe's extraordinary phenomena. 
-I extend a formal welcome to all who wish to engage with the frontiers of astrophysics through the lens of my ongoing research endeavors.
+My name is Berkin and I am a Graduate Student at McGill University working on Theoretical Cosmology!
 
+"What is Cosmology?" you may ask... Cosmology is the study of the formation and evolution of the universe as a whole. As a theorist, my job is to come up with new theories, or evaluate the validity of existing ones, and what implications they have on the evolution of our 14 billion year old universe.
 
-If you're like to learn more about me, you can find an introduction to [my research](./reasearch/index.md), some info on some [recent projects](./projects/project_index.md) and some more info [about me](./about/about.md).
+As a member of Dark Matter McGill (DMcGill) a lot of my work revolves around theoretical particle physics models of dark matter. More recently, I've been working on topological defects in cosmology, which are peculiar structures predicted to be formed in the early universe by many theories.
 
-## Here is an equation
-
-$$ x = \frac{-b \pm \sqrt{b^2 -4ac}}{2a}$$
-
-## Here is the Crab Nebula
-
-[![Crab Nebula](./media/Crab_Nebula.jpg "Crab Nebula")](https://en.wikipedia.org/wiki/Crab_Nebula#)
-I got this image from [Wikipedia](https://en.wikipedia.org/wiki/Crab_Nebula).
+## Here is me and my best bud!

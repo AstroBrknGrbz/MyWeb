@@ -1,9 +1,9 @@
 # Change to your own name
-site_name: Berkin Website
+site_name: Berkin's Website
 # Change to your own site
 site_url: https://AstroBrknGrbz.github.io/MyWeb/ # must have the trailing slash
 site_author: Berkin Gurbuz (berkin.gurbuz@mail.mcgill.ca)
-site_description: Research site for Your Name 
+site_description: Research site for Berkin Gurbuz
 copyright: > # should remain a link to the original theme
   &copy; 2024 Berkin Gurbuz <br>
   <a href="https://github.com/vuquangtrong/mkdocs-material-blog">Blog Theme</a> /
@@ -58,7 +58,6 @@ nav:
   - Home: index.md
   - About Me: about/index.md
   - Research: reasearch/index.md
-  - Projects: projects/index.md
 
 # Extensions that we want to use
 markdown_extensions:
