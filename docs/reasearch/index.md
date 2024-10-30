@@ -8,4 +8,10 @@ My current work is in topological defects in cosmology, specifically the signatu
 ## Recent Highlights
  - ["Electromagnetic Signatures of Mirror Stars" Berkin Gurbuz, et al., 2024](https://iopscience.iop.org/article/10.3847/1538-4357/ad283c)
 
-A full list of publications can be found [here](https://inspirehep.net/authors/2728732).
+Here is a figure from the paper!
+
+![MSRP_HR](./media/HR.jpg "MSRP_HR"){align="left": style="height:400;width:400px"}
+
+It is the Hertzsprug-Russel (HR) Diagram with my mirror stars included! We see that mirror stars look like very dim white dwarfs in the night sky, but we develope techniques to distinguish them from other stars so that astronomers may look for them!
+
+A full list of my publications can be found [here](https://inspirehep.net/authors/2728732).
